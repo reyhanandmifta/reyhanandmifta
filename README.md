@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">Student Portfolio – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
+<h1 align="center">Reyhan Andika Mifta – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Repository;SMK+Teknik+Komputer+dan+Jaringan;Learning+Networking%2C+Linux%2C+and+Server+Administration" />
